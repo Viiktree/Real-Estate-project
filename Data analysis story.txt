@@ -1,0 +1,25 @@
+Expensive Housing in abuja 
+Univariate
+- Guzape has the highest number of houses for sales
+- prices of house sales is inbetween 70 - 250 million
+- There are more detached than terraced and
+  semi-detached being sold
+- There are more duplex's than bungalow being sold
+- 4 bedroom houses are the most sold
+- Most of the houses were posted of recent
+Bivariate
+- The houses in the maitama district, asokoro district wuse 2,
+  guzape district and katampe are the most expensive houses
+- The detached houses in gwarimpa are the most sold houses
+- The duplex's in Guzape are the most sold houses
+- The expensive districts of abuja has houses on sale with
+  rooms reaching up to 10 bedroom
+- Most expensive houses were posted in 2021
+Multivarite
+- Across the three years the maitama and asokoro districts
+have stayed among the top three districts with most expenisve
+houses sales
+- Across all districts the more the rooms the more expensive
+the house
+- The most expensive houses are the detached houses in maitama
+- the most sold houses are the duplex's in maitama
